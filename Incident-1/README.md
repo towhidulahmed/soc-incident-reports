@@ -36,7 +36,6 @@ At 01:46:22 UTC, an internal host attempted to open a URL that was already on th
 ## Evidence
 
 ![Alert Details](./screenshots/alart.png)
-![Dashboard](./screenshots/dashboard.png)
 ![VirusTotal Scan](./screenshots/virus-total.png)
 ![Splunk Search Results](./screenshots/splunk.png)
 
