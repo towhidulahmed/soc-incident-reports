@@ -35,11 +35,6 @@ At 01:46:22 UTC, an internal host attempted to open a URL that was already on th
 
 ## Evidence
 
-### SOC Dashboard Overview
-<p align="center">
-  <img src="./screenshots/dashboard.png" alt="SOC Dashboard" width="800"/>
-</p>
-
 ### Alert Details
 <p align="center">
   <img src="./screenshots/alart.png" alt="Alert Details" width="800"/>
